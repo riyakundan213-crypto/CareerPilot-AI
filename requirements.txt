@@ -2,3 +2,7 @@ streamlit
 pandas
 PyPDF2
 python-docx
+matplotlib
+fpdf
+scikit-learn
+pdfplumber
